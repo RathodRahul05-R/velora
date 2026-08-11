@@ -1,0 +1,6 @@
+{
+  "name": "Velora",
+  "description": "High-quality, chef-curated and nutritionist-approved bento boxes delivered fresh daily to your doorstep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
